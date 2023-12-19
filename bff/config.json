@@ -1,0 +1,10 @@
+[
+  {
+    "name": "microfrontend1",
+    "url": "http://path/to/microfrontend1"
+  },
+  {
+    "name": "microfrontend2",
+    "url": "http://path/to/microfrontend2"
+  }
+]
